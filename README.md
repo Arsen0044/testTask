@@ -3,4 +3,4 @@
 # Install dependencies
     npm install
 # Run Cypress 
-    npx cypress open
+    npx cypress open 
